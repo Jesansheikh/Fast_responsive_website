@@ -63,7 +63,7 @@
 
 }
 /* Mobile M to Tablet */
-@media only screen and (min-width: 425px) and (max-width: 767px)
+@media only screen and (min-width: 425px) and (max-width: 768px)
 {
     .PosterText h1 {
         font-size: 77px;
